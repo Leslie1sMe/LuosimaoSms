@@ -3,6 +3,8 @@
 
 使用示例：
 
+使用方法:composer require leslie/sms dev-master
+
 `require 'vendor/autoload.php';`
 
 `use Leslie\Sms\Sms;`
