@@ -1,0 +1,20 @@
+{
+  "name": "leslie/sms",
+  "description": "luosimao发送短信composer包",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Leslie",
+      "email": "lizhonglin_melody@yeah.net"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Leslie\\Sms\\": "src/"
+    }
+  }
+}
